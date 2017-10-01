@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Klik om Panorama \nte laden\n",
+    "loadingLabel": "Laden...",
+	"bylineLabel": "Door %s",    
+
+    "noPanoramaError": "Er is geen panorama foto gespecificeerd.",
+    "fileAccessError": "Het bestand %s is niet toegankelijk.",
+    "malformedURLError": "Er is iets mis met de panorama URL.",
+    "iOS8WebGLError": "Door de slechte WebGL implementatie van iOS 8, werken aleen progressief gecodeerde JPEGs op uw apparaat (deze panorama is standaard gecodeerd).",
+    "genericWebGLError": "Uw browser ondersteunt de benodigde WebGL support om de panorama weer te geven.",
+    "textureSizeError": "Deze panorama is te groot voor uw apparaat! Het is %spx breed, Maar uw apparaat ondersteunt alleen afbeeldingen van %spx breed. Probeer een van uw andere apparaten. Bent u de auteur? , probeer de afbeelding te verkleinen.)",
+    "unknownError": "Onbekende error. Controleer de developer console."
+}
