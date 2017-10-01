@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "クリックして\nパノラマを\n読み込み",
+    "loadingLabel": "読み込み中...",
+	"bylineLabel": "by %s",    
+
+    "noPanoramaError": "パノラマ画像が指定されていません。",
+    "fileAccessError": "ファイル %s にアクセスできません。",
+    "malformedURLError": "不正なパノラマURLです。",
+    "iOS8WebGLError": "iOS 8のWebGL実装の不具合のため、このデバイスではprogressiveエンコードのJPEGしか表示できません (このパノラマは標準エンコードです)",
+    "genericWebGLError": "お使いのブラウザはこのパノラマを表示するために必要なWebGLをサポートしていません。",
+    "textureSizeError": "このパノラマはお使いのデバイスに対して大きすぎるようです! パノラマの横幅は %spx ですが、お使いのデバイスサポートされている最大サイズは %spx です。他のデバイスをお試しください（もしあなたが画像の持ち主であれば、画像のサイズを小さくしてみてください）",
+    "unknownError": "不明なエラーです。開発者コンソールを確認してください。"
+}
