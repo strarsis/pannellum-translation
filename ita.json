@@ -4,7 +4,7 @@
 	"bylineLabel": "da %s",    
 
     "noPanoramaError": "Nessuna immagine panoramica era specificata.",
-    "fileAccessError": "Il file %s poteva essere acceduto.",
+    "fileAccessError": "Il file %s non poteva essere acceduto.",
     "malformedURLError": "C'è qualcosa sbagliato con l'url della panorama.",
     "iOS8WebGLError": "A causa del rotto WebGL implementazione in iOS 8, solo JPEG codificati progressivamente funzioni per il suo dispositivo (questo panoramica usa codifica standard).",
     "genericWebGLError": "Il suo browser non ha il supporto WebGL necessario per visualizzare questo panorama.",
