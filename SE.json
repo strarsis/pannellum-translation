@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Klicka för att ladda Panorama",
+    "loadingLabel": "Laddar...",
+	"bylineLabel": "av %s",    
+
+    "noPanoramaError": "Ingen panorama-bild var specifierad.",
+    "fileAccessError": "Filen %s kunde inte nås.",
+    "malformedURLError": "Det är något fel på panorama-adressen.",
+    "iOS8WebGLError": "På grund av iOS 8's trasiga WebGL implementation fungerar endast progressivt kodade JPEG-filer på din enhet (denna panorma använder standardkodning).",
+    "genericWebGLError": "Din webbläsare har inte det WebGL-stöd som krävs för att visa denna panorama.",
+    "textureSizeError": "Denna panorama är för stor för din enhet! Den är %s px bred, men din enhet har bara stöd för bilder upp till %s px bredd. Försök med en annan enhet. (Om det är du som är upphovsman kan du försöka skala ner bilden.)",
+    "unknownError": "Okänt fel. Kolla i utvecklingskonsollen."
+}
