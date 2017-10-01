@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Panoramayı\nGörüntülemek için\nTıklayın",
+    "loadingLabel": "Yükleniyor...",
+	"bylineLabel": "%s tarafından",    
+
+    "noPanoramaError": "Hiç bir panorama resmi belirtilmedi.",
+    "fileAccessError": "%s dosyasına erişilemedi.",
+    "malformedURLError": "Panorama URL'sinde bir hata mevcut.",
+    "iOS8WebGLError": "iOS 8'de bulunan hatalı WebGL implementasyonu yüzünden yalnızca ilerlemeli(progressive encoded) JPEG'ler çalışmaktadır.(Bu panorama standart encoding kullanmaktadır).",
+    "genericWebGLError": "Web tarayıcınızın panoramayı gösterebilmek için gerekli WebGL desteği yok.",
+    "textureSizeError": "Bu panorama cihazınız için çok büyük ! Panorama %spx genişliğinde , ancak sizin cihazınız sadece %spx genişliğine kadar destek veriyor. Başka bir cihaz deneyin. (Eğer yapımcısıysanız resmi küçültmeyi deneyin.)",
+    "unknownError": "Bilinmeyen hata. Geliştirici konsolunu(developer console) kontrol edin."
+}
