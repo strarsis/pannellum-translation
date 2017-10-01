@@ -1,10 +1,9 @@
 {
     "loadButtonLabel": "Pincha para\nCargar\nPanorama",
     "loadingLabel": "Cargando...",
-	"bylineLabel": "por %s",    
-
+    "bylineLabel": "por %s",    
     "noPanoramaError": "No se especifica un imagen panorama.",
-    "fileAccessError": "No se pudo acceder al archivo "%s".",
+    "fileAccessError": "No se pudo acceder al archivo '%s'.",
     "malformedURLError": "algo está incorrecta con el enlace panorama",
     "iOS8WebGLError": "por la implementación WebGL estropeado de iOS 8, solo codificado progresivamente funcionará con tu dispositivo (este usa codificación estandar).",
     "genericWebGLError": "Tu navegador no tiene el servicio necesario para mostrar este panomara.",
