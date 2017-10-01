@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Klik hier om de \nPanorama \nte laden",
     "loadingLabel": "Laden...",
-	"bylineLabel": "by %s",    
+	"bylineLabel": "door %s",    
 
     "noPanoramaError": "Er is geen panorama afbeelding gespecificeerd.",
     "fileAccessError": "Het bestand %s is niet toegankelijk.",
