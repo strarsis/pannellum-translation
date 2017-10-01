@@ -6,7 +6,7 @@
     "noPanoramaError": "Er is geen panorama afbeelding opgegeven.",
     "fileAccessError": "Het bestand %s kan niet worden geopend.",
     "malformedURLError": "Er is iets met de panorama-URL.",
-    "iOS8WebGLError": "Door een kapotte WebGL-implementie van iOS 8 werken alleen progressieve gecodeerde JPEG's voor uw apparaat (deze panorama maakt gebruik van standaardcodering).",
+    "iOS8WebGLError": "Door een incorrecte WebGL-implementie van iOS 8 werken alleen progressieve gecodeerde JPEG's voor uw apparaat (deze panorama maakt gebruik van standaardcodering).",
     "genericWebGLError": "Uw browser heeft niet de nodige WebGL-ondersteuning om de panorama weer te geven.",
     "textureSizeError": "Deze panorama is te groot voor uw toestel! Het is %spx breed, maar uw apparaat ondersteunt alleen afbeeldingen tot %spx breed. Probeer een ander apparaat. (Als u de auteur bent, probeer dan de afbeelding te verkleinen.)",
     "unknownError": "Onbekende fout. Controleer de ontwikkelaarsconsole."
