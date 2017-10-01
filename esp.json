@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Haga click para\nCargar\nPanorama",
+    "loadingLabel": "Cargando...",
+	"bylineLabel": "por %s",    
+
+    "noPanoramaError": "No se ha especificado imagen panorama.",
+    "fileAccessError": "No se ha podido acceder al archivo %s.",
+    "malformedURLError": "Hay algún error con el enlace del panorama.",
+    "iOS8WebGLError": "Debido a la implementación rota de WebGL en iOS 8, solo los JPEGs codificados progresivos funcionarán en su dispositivo (este panorama usa la codificación estándar).",
+    "genericWebGLError": "Su buscador no cuenta con el soporte WebGL necesario para mostrar este panorama.",
+    "textureSizeError": "¡Este panorama es demasiado grande para su dispositivo! Tiene una amplitud de %spx, pero su dispositivo solo soporta imágenes hasta un máximo de %spx. Pruebe con otro dispositivo. (Si es usted el autor, intente bajar la escala de la imagen.)",
+    "unknownError": "Error desconocido. Compruebe la consola de desarrollador."
+}
