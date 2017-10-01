@@ -7,6 +7,6 @@
     "malformedURLError": "C'è un problema con l'URL del panorama.",
     "iOS8WebGLError": "WebGL ha degli errori noti su iOS 8, per questo motivo è solo possibile elaborare JPEG con encoding progressivo. (questo panorama usa un encoding standard).",
     "genericWebGLError": "Il tuo browser non dispone del supporto necessario per WebGL per mostrare questo programma.",
-    "textureSizeError": "Questo panorama è troppo grande per il tuo dispositivo! Ha una larghezza di %spx, ma il tuo dispositivo può solo elaborare immagini con larghezza massima di %spx. Riprova con altro dispositivo. (Se sei l'autor, prova a ridimensionare l'immagine.)",
-    "unknownError": "Errore sconosciuto. Controlla 'Developer Console'."
+    "textureSizeError": "Questo panorama è troppo grande per il tuo dispositivo! Ha una larghezza di %spx, ma il tuo dispositivo può solo elaborare immagini con larghezza massima di %spx. Riprova con altro dispositivo. (Se sei l'autore, prova a ridimensionare l'immagine.)",
+    "unknownError": "Errore sconosciuto. Controlla la 'Developer Console'."
 }
