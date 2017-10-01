@@ -2,11 +2,11 @@
     "loadButtonLabel": "Pincha para\nCargar\nPanorama",
     "loadingLabel": "Cargando...",
     "bylineLabel": "por %s",    
-    "noPanoramaError": "No se especifica un imagen panorama.",
+    "noPanoramaError": "No se especifica un imagén panorama.",
     "fileAccessError": "No se pudo acceder al archivo '%s'.",
     "malformedURLError": "algo está incorrecta con el enlace panorama",
-    "iOS8WebGLError": "por la implementación WebGL estropeado de iOS 8, solo codificado progresivamente funcionará con tu dispositivo (este usa codificación estandar).",
+    "iOS8WebGLError": "por la implementación estropeado de WebGL de iOS 8, solo codificado progresivamente funcionará con tu dispositivo (este usa codificación estandar).",
     "genericWebGLError": "Tu navegador no tiene el servicio necesario para mostrar este panomara.",
-    "textureSizeError": "Este panorama es demasiado grande para tu dispositivo! Es %spx de ancho, pero tu dispositivo solo es compatible con imagens solo hasta %spx de ancho. intenta un otro dispositivo. (Si eres el autor, intenta reducir el imagen.)",
-    "unknownError": "Error desconocido. revisar la consola de desarrolladores."
+    "textureSizeError": "Este panorama es demasiado grande para tu dispositivo! Es %spx de ancho, pero tu dispositivo solo es compatible con imagéns hasta %spx de ancho. intenta un otro dispositivo. (Si eres el autor, intenta reducir el temaño del imagen.)",
+    "unknownError": "Error desconocido. Revisa la consola de desarrolladores."
 }
