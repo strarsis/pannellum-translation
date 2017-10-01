@@ -9,5 +9,5 @@
     "iOS8WebGLError": "Door de iOS 8's kapote WebGL implementatie, zullen alleen progressive encoded JPEGs werken op jouw apparaat (deze panorama gebruikt de standaard encoding).",
     "genericWebGLError": "Jouw browser heeft niet de nodige WebGL ondersteuning om deze panorama te tonen.",
     "textureSizeError": "Deze panorama is te groot voor jouw apparaat! Het is %spx breed, maar jouw apparaat ondersteund alleen afbeeldingen tot %spx breed. Probeer een ander apparaat. (Als je de maker bent, probeer de afbeelding kleiner te schalen.)",
-    "unknownError": "Onbekende error. Bekijk de developer console."
+    "unknownError": "Onbekende error. Bekijk de ontwikkelaar console."
 }
