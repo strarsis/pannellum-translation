@@ -7,7 +7,11 @@ The actual file names holding the strings should conform to the **ISO 639-3 Code
 
 If you have a request for a translation, **only** open an issue **if it doesnt exist already!**
 
-If you want to contribute:
+## If you want to contribute:
+
+Check out the english [`eng.json`](https://github.com/DanielBiegler/pannellum-translation/blob/master/eng.json) file to get an idea of how this works.
+Note how there are substitutions e.g. `"The file %s could not be accessed."`!
+
 1. Fork this repo.
 2. Create a branch e.g. `add-german-translation`.
 3. Create a JSON file with the correct **ISO 639-3 Code** e.g. `deu.json`.
