@@ -3,7 +3,7 @@
     "loadingLabel": "Cargando...",
     "bylineLabel": "por %s",    
 
-    "noPanoramaError": "Ninguna imágen ha sido especificada para el panorama.",
+    "noPanoramaError": "Ninguna imagen ha sido especificada para el panorama.",
     "fileAccessError": "No se ha podido acceder al archivo %s.",
     "malformedURLError": "La dirección del panorama es incorrecta.",
     "iOS8WebGLError": "Debido a la falta de implementación WebGL en iOS 8, solo los archivos JPEG cifrados de manera progresiva funcionarán en tu dispositivo (este panorama utiliza una codificación estándar).",
