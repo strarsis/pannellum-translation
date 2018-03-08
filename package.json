@@ -1,6 +1,6 @@
 {
   "name": "pannellum-translation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A central place for translated user-facing strings for the panorama viewer library called [Pannellum](https://github.com/mpetroff/pannellum).",
   "repository": {
     "type": "git",
