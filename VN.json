@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Nhấn để \ntải\n chế độ Panorama",
+    "loadingLabel": "Đang tải..",
+    "bylineLabel": "bởi %s",    
+
+    "noPanoramaError": "Không có tập tin Panorama nào được chỉ định.",
+    "fileAccessError": "Tập tin %s không thể truy cập.",
+    "malformedURLError": "Đã có lỗi với Panorama URL.",
+    "iOS8WebGLError": "Do triển khai WebGL bị hỏng trên iOS 8, chỉ các tập tin JPEG được mã hóa lũy tiến mới hoạt động cho thiết bị của bạn (Panorama này sử dụng mã hóa chuẩn).",
+    "genericWebGLError": "Trình duyệt của bạn không có hỗ trợ WebGL cần thiết để hiển thị ảnh Panorama này.",
+    "textureSizeError": "Ảnh Panorama này quá lớn trên thiết bị của bạn! ( %spx wide/%spx wide - thiết bị của bạn). Xin thử lại trên thiết bị khác.",
+    "unknownError": "Lỗi không xác định đã xảy ra!"
+}
