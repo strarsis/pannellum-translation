@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Kliknij aby\nzaładować\nPanoramę",
+    "loadingLabel": "Ładowanie...",
+	"bylineLabel": "przez %s",    
+
+    "noPanoramaError": "Nie podano żadnej panoramy.",
+    "fileAccessError": "Plik %s nie mógł zostać otwarty.",
+    "malformedURLError": "Adres URL tej panoramy jest nie poprawny.",
+    "iOS8WebGLError": "System operacyjny iOS 8 nie posiada wsparcia technologi WebGL, tylko pliki JPEG zakodowane progresywnie działają na twoim użądzeniu (ta panorama używa standardowego zakodowania).",
+    "genericWebGLError": "Twoja przeglądarka nie wspiera technologi WebGL potrzebną do wyświetlenia tej panoramy.",
+    "textureSizeError": "Ta panorama jest za duża dla twojego użądzenia! Ma ona %spx szerokości a twoje użądzenie wspiera obrazy do %spx szerokości. Użyj innego użądzenia.  (Jeśli jesteś autorem, spróbuj zmniejszyć obraz.)",
+    "unknownError": "Wystąpił nieznany błąd. Sprawdz konsole"
+}
