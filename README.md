@@ -7,6 +7,10 @@ The actual file names holding the strings should conform to the **[ISO 3166-1 al
 
 If you have a request for a translation, **only** open an issue **if it doesnt exist already!** Instead express your interest inside the existing issue.
 
+## NPM
+
+You can find the package [here](https://www.npmjs.com/package/pannellum-translation).
+
 ## If you want to contribute:
 
 Check out the american english [`US.json`](https://github.com/DanielBiegler/pannellum-translation/blob/master/US.json) file to get an idea of how this works.
