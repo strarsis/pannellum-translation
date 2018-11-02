@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Tekan untuk\nMemuat\nPanorama",
+    "loadingLabel": "Memuat...",
+	"bylineLabel": "oleh %s",    
+
+    "noPanoramaError": "Tidak ada gambar panorama yang ditentukan.",
+    "fileAccessError": "File %s tidak dapat diakses.",
+    "malformedURLError": "Ada kesalahan dengan URL panorama.",
+    "iOS8WebGLError": "Karena implementasi WebGL iOS 8 yang rusak, hanya JPEG yang dienkode progresif yang berfungsi untuk perangkat Anda (panorama ini menggunakan pengkodean standar).",
+    "genericWebGLError": "Browser Anda tidak memiliki dukungan WebGL yang diperlukan untuk menampilkan panorama ini.",
+    "textureSizeError": "Panorama ini terlalu besar untuk perangkat Anda! Lebar ini %spx, tetapi perangkat anda hanya mendukung lebar hingga %spx. Coba perangkat lain. (Jika kamu pemiliknya, cobalah menurunkan skala gambar.)",
+    "unknownError": "Kesalahan yang tidak diketahui. Periksa konsol pengembang."
+}
