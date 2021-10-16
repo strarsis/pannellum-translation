@@ -1,0 +1,12 @@
+{
+    "loadButtonLabel": "点击\n加载\n全景",
+    "loadingLabel": "加载中...",
+    "bylineLabel": "由 %s 制作",
+    "noPanoramaError": "全景图未指定。",
+    "fileAccessError": "该文件无法访问 %s 。",
+    "malformedURLError": "全景URL不正确。",
+    "iOS8WebGLError": "由于 iOS 8 WebGL 实现中的缺陷，该设备只支持逐行编码的 JPEG 文件（该全景图为标准编码）。",
+    "genericWebGLError": "您的浏览器不支持 WebGL，而 WebGL 是查看全景图的必要条件。",
+    "textureSizeError": "这个全景图似乎对您的设备来说太大了！全景图的宽度为 %spx，而该设备只支持最大宽度为 %spx 的全景图。请更换设备体验（如果您是作者，请尝试缩小图片的大小）",
+    "unknownError": "未知错误，详情查看开发者控制台。"
+}
