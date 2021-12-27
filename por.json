@@ -1,13 +1,13 @@
 {
-    "loadButtonLabel": "Clique para\nCarregar\nPanorama",
+    "loadButtonLabel": "Clique para\ncarregar\npanorama",
     "loadingLabel": "Carregando...",
-	"bylineLabel": "por %s",    
+	"bylineLabel": "de %s",    
 
     "noPanoramaError": "Nenhuma imagem panorâmica definida.",
     "fileAccessError": "Não foi possível acessar o arquivo %s.",
     "malformedURLError": "Há algo de errado com a URL do panorama.",
     "iOS8WebGLError": "Devido ao iOS 8 quebrar a implementação do WebGL, somente JPEGs com codificação progressiva irão funcionar em seu dispositivo (este panorama usa a codificação padrão).",
     "genericWebGLError": "Seu navegador não tem suporte ao WebGL necessário para carregar o panorama.",
-    "textureSizeError": "Este panorama é muito grande para seu dispositivo! Ele tem %spx de largura, porém seu dispositivo suporta somente imagens até %spx de largura. Tente em outro dispositivo. (Se você é o autor, tente reduzir a imagem.)",
+    "textureSizeError": "Este panorama é muito grande para seu dispositivo! Ele tem %spx de largura, porém seu dispositivo suporta somente imagens de até %spx de largura. Tente em outro dispositivo. (Se você é o autor, tente reduzir a imagem.)",
     "unknownError": "Erro desconhecido. Verifique o terminal do desenvolvedor."
 }
