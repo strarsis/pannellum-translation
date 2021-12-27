@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Kattintson ide\na Panoráma\nBetöltéséhez",
+    "loadingLabel": "Betöltés...",
+	"bylineLabel": "%s által",    
+
+    "noPanoramaError": "Nincs megadva panorámakép.",
+    "fileAccessError": "A fájl %s nem elérhető.",
+    "malformedURLError": "Valami probléma van a panoráma URL-jével.",
+    "iOS8WebGLError": "Az iOS 8 hibás WebGL kivitelezése miatt csak progresszív kódolású JPEG fájlok működnek az eszközön (ez a panoráma szabványos kódolású).",
+    "genericWebGLError": "A böngésző nem rendelkezik a szükséges WebGL támogatással a panoráma megjelenítéséhez.",
+    "textureSizeError": "A panoráma túl nagy az Ön eszközének! A kép %spx széles, míg az eszköz maximum %spx széles képeket támogat. Próbálkozzon másik eszközzel. (Ha Ön a szerző, kicsinyítse le a képet.)",
+    "unknownError": "Ismeretlen hiba. Ellenőrizze a fejlesztői konzolt."
+}

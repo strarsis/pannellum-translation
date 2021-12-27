@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "파노라마를\n불러오려면\n클릭하세요",
+    "loadingLabel": "불러오는 중...",
+	"bylineLabel": "by %s",
+
+    "noPanoramaError": "특정된 파노라마 이미지가 없습니다.",
+    "fileAccessError": "%s 파일에 접근할 수 없습니다.",
+    "malformedURLError": "파노라마 URL에 문제가 있습니다.",
+    "iOS8WebGLError": "iOS 8에서의 WebGL 구현 문제 때문에, 이 기기에서는 progressive 인코딩된 JPEG만 작동합니다 (이 파노라마는 standard 인코딩을 사용합니다).",
+    "genericWebGLError": "이 브라우저에서는 해당 파노라마를 표시하는데 필요한 WebGL을 지원하지 않습니다",
+    "textureSizeError": "해당 파노라마는 이 기기에서 보여주기엔 너무 큽니다! 파노라마의 너비는 %spx로, 이 기기에서는 %spx의 너비까지만 지원합니다. 다른 기기로 시도하세요. (당신이 파노라마의 주인이라면, 이미지 해상도를 낮추세요)",
+    "unknownError": "예상치 못한 에러. 개발자 콘솔을 확인하세요."
+}

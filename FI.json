@@ -1,0 +1,12 @@
+{
+    "loadButtonLabel": "Klikkaa tästä \nladataksesi\npanoraaman",
+    "loadingLabel": "Ladataan...",
+    "bylineLabel": "tehnyt %s",
+    "noPanoramaError": "Panoraama-kuvaa ei ole määritelty.",
+    "fileAccessError": "Tiedostoa %s ei voitu avata.",
+    "malformedURLError": "Panoraaman URL-osoite on virheellinen.",
+    "iOS8WebGLError": "iOS 8:n rikkinäisen WebGL-implementaation vuoksi ainoastaan progressiivista enkoodaustsa käyttävät JPEG:t toimivat laitteellasi (tämä panoraama käyttää tavallista enkoodausta).",
+    "genericWebGLError": "Selaimessasi ei ole tarvittavaa WebGL-tukea tämän panoraaman näyttämiseksi",
+    "textureSizeError": "Tämä panoraama on liian iso laitteellesi! Kuva on %s pikseliä leveä, mutta laitteesi tukee ainoastaan %s pikseliä leveitä kuvia. (Jos olet kuvan lisääjä, yritä skaalata kuvaa pienemmäksi.)",
+    "unknownError": "Tuntematon virhe. Tarkista kehittäjäkonsoli."
+}

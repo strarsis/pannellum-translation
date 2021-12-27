@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Klik for at \nindlæse\nPanorama",
+    "loadingLabel": "Indlæser...",
+    "bylineLabel": "af %s",
+
+    "noPanoramaError": "Intet panorama-billede specificeret.",
+    "fileAccessError": "Filen %s kunne ikke tilgås.",
+    "malformedURLError": "Der er noget galt med panorama-adressen",
+    "iOS8WebGLError": "Pga. iOS 8s ikke-fungerende WebGL implementation, virker kun progressivt indkoede JPEG-filer på din enhed (Dette panorama bruger standard indkodning).",
+    "genericWebGLError": "Din browser mangler den nødvendige understøttelse af WebGL for at vise dette panorama.",
+    "textureSizeError": "Dette panorama er for stort til din enhed! Det er %spx bredt, men din enhed understøtter kun billeder op til %spx bredde. Prøv en anden enhed. (Hvis du er ophavsmand, prøv at skalere billedet ned.)",
+    "unknownError": "Ukendt fejl. Tjek udviklerkonsollen."
+}
