@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Klikněte pro\nnačtení\npanorámy",
+    "loadingLabel": "Načítání...",
+	"bylineLabel": "od %s",    
+
+    "noPanoramaError": "Nebyl zvolen žádný obrázek panorámy.",
+    "fileAccessError": "Soubor %s není přístupný.",
+    "malformedURLError": "Něco není s URL v pořádku.",
+    "iOS8WebGLError": "Kvůli nefunkční implementaci WebGL pro iOS 8 fungují na vašem zařízení pouze progresivně formátovaný JPEG (toto panoráma používá standardní formátování).",
+    "genericWebGLError": "Váš prohlížeč nepodporuje WebGL a nezobrazí toto panoráma.",
+    "textureSizeError": "Toto panoráma je příliš velké! Jeho šířka je %spx, ale vaše zařízení nezobrazí víc jak %spx široké. Zkuste použít jiné zařízení. (Pokud jste autorem, zkuste obrázek zmenšit.)",
+    "unknownError": "Neznámá chyba. Podívejte se do vývojářské konzole."
+}
