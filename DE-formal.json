@@ -11,7 +11,7 @@
     "textureSizeError": "Dieses Panorama ist zu groß für Ihr Gerät! Das Panorama ist %spx breit, ihr Gerät unterstützt allerdings nur eine maximal Größe von %spx. Versuchen Sie ein anderes Gerät. (Falls Sie der Autor sind, versuchen Sie, das Bild herunterzuskalieren.)", 
     "unknownError": "Unbekannter Fehler. Schauen Sie in die Entwicklerkonsole.",
 
-    "twoTouchActivate": "Verwendeh Sie zwei Finger zusammen, um das Panorama zu bewegen.",
+    "twoTouchActivate": "Verwenden Sie zwei Finger zusammen, um das Panorama zu bewegen.",
     "twoTouchXActivate": "Verwenden Sie zwei Finger zusammen, um das Panorama waagerecht zu bewegen.",
     "twoTouchYActivate": "Verwenden Sie zwei Finger zusammen, um das Panorama senkrecht zu bewegen.",
     "ctrlZoomActivate": "Verwenden Sie %s + Mausrad, um im Panorama zu zoomen."
