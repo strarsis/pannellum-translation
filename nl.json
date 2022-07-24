@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Klik om panorama\nTe\nLaden",
     "loadingLabel": "Laden...",
-	"bylineLabel": "door %s",    
+    "bylineLabel": "door %s",
 
     "noPanoramaError": "Er is geen panorama afbeelding opgegeven.",
     "fileAccessError": "Het bestand %s kan niet worden geopend.",

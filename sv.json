@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Klicka för att ladda Panorama",
     "loadingLabel": "Laddar...",
-	"bylineLabel": "av %s",    
+    "bylineLabel": "av %s",
 
     "noPanoramaError": "Ingen panorama-bild var specifierad.",
     "fileAccessError": "Filen %s kunde inte nås.",

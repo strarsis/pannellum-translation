@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Naciśnij aby\nwczytać\nPanorama",
     "loadingLabel": "Wczytuje...",
-	"bylineLabel": "przez %s",    
+    "bylineLabel": "przez %s",
 
     "noPanoramaError": "Obraz panorama nie został wybrany.",
     "fileAccessError": "Plik %s nie jest dostępny.",

@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Tekan untuk\nMemuat\nPanorama",
     "loadingLabel": "Memuat...",
-	"bylineLabel": "oleh %s",    
+    "bylineLabel": "oleh %s",
 
     "noPanoramaError": "Tidak ada gambar panorama yang ditentukan.",
     "fileAccessError": "File %s tidak dapat diakses.",
