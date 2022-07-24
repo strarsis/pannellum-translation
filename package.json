@@ -4,17 +4,20 @@
   "description": "A central place for translated user-facing strings for the panorama viewer library called [Pannellum](https://github.com/mpetroff/pannellum).",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielBiegler/pannellum-translation.git"
+    "url": "git+https://github.com/strarsis/pannellum-translation.git"
   },
   "keywords": [
     "pannellum",
     "translation",
     "language"
   ],
-  "author": "Daniel Biegler",
+  "author": "strarsis <strarsis@gmail.com>",
+  "contributors": [
+    "Daniel Biegler"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DanielBiegler/pannellum-translation/issues"
+    "url": "https://github.com/strarsis/pannellum-translation/issues"
   },
-  "homepage": "https://github.com/DanielBiegler/pannellum-translation#readme"
+  "homepage": "https://github.com/strarsis/pannellum-translation#readme"
 }
