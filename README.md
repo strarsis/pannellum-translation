@@ -3,7 +3,8 @@ A central place for translated user-facing strings for the panorama viewer libra
 
 [Pannellum](https://github.com/mpetroff/pannellum) includes english strings by default which can be overwritten to create a localized experience for the user/s.
 
-The actual file names holding the strings should conform to the **[IETF language tags](https://datahub.io/core/language-codes#resource-ietf-language-tags) like so: `de.json` => `German`, sometimes you need more precision for some dialects e.g. German Bavarian would be `de-by.json`
+The actual file names holding the strings should conform to the **[IETF language tags]([https://en.wikipedia.org/wiki/IETF_language_tag](https://www.venea.net/web/culture_code))** like so: `de.json` => `German`, sometimes you need more precision for some dialects e.g. German Swiss would be `de-CH.json`.
+(Note: Previously **[ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1) and (if necessary) [3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) Codes** were used for naming the translation files, but for translation languages `IETF language tags` are better suited).
 
 If you have a request for a translation, **only** open an issue **if it doesnt exist already!** Instead express your interest inside the existing issue.
 
@@ -13,7 +14,7 @@ You can find the package [here](https://www.npmjs.com/package/pannellum-translat
 
 ## If you want to contribute:
 
-Check out the american english [`US.json`](https://github.com/DanielBiegler/pannellum-translation/blob/master/en-US.json) file to get an idea of how this works.
+Check out the american english [`en-US.json`](https://github.com/DanielBiegler/pannellum-translation/blob/master/en-US.json) file to get an idea of how this works.
 Note how there are substitutions `%s` e.g. `"The file %s could not be accessed."`!
 
 1. Fork this repo.
