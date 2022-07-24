@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Кликни да\nја учиташ\nПанорамата",
     "loadingLabel": "Се вчитува...",
-	"bylineLabel": "од %s",    
+    "bylineLabel": "од %s",
 
     "noPanoramaError": "Немаше панорама специфицирана.",
     "fileAccessError": "Фајлот %s неможеше да се пристапи.",

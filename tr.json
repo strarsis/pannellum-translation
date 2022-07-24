@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Panoramayı\nGörüntülemek için\nTıklayın",
     "loadingLabel": "Yükleniyor...",
-	"bylineLabel": "%s tarafından",    
+    "bylineLabel": "%s tarafından",
 
     "noPanoramaError": "Hiç bir panorama resmi belirtilmedi.",
     "fileAccessError": "%s dosyasına erişilemedi.",

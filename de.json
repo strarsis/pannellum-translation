@@ -1,14 +1,14 @@
 {
     "loadButtonLabel": "Klicke hier, um\nPanorama\nzu laden",
     "loadingLabel": "Lade...",
-    "bylineLabel": "von %s",    
+    "bylineLabel": "von %s",
 
     "noPanoramaError": "Es wurde kein Panorama angegeben.",
     "fileAccessError": "Die Datei %s konnte nicht geöffnet werden.",
     "malformedURLError": "Da stimmt etwas nicht mit der Panorama URL.",
     "iOS8WebGLError": "Wegen der fehlerhaften WebGL Implementierung von iOS8 funktionieren nur progressiv enkodierte JPEGs auf deinem Gerät (dieses Panorama benutzt Standard Enkodierung).",
     "genericWebGLError": "Dein Browser hat nicht die nötige WebGL Unterstützung, um das Panorama anzeigen zu können.",
-    "textureSizeError": "Dieses Panorama ist zu groß für dein Gerät! Das Panorama ist %spx breit, dein Gerät unterstützt allerdings nur eine maximal Größe von %spx. Versuche ein anderes Gerät. (Falls du der Author bist, versuche, das Bild herunterzuskalieren.)", 
+    "textureSizeError": "Dieses Panorama ist zu groß für dein Gerät! Das Panorama ist %spx breit, dein Gerät unterstützt allerdings nur eine maximal Größe von %spx. Versuche ein anderes Gerät. (Falls du der Author bist, versuche, das Bild herunterzuskalieren.)",
     "unknownError": "Unbekannter Fehler. Schaue in die Entwicklerkonsole.",
 
     "twoTouchActivate": "Verwende zwei Finger zusammen, um das Panorama zu bewegen.",

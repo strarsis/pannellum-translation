@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Kattintson ide\na Panoráma\nBetöltéséhez",
     "loadingLabel": "Betöltés...",
-	"bylineLabel": "%s által",    
+    "bylineLabel": "%s által",
 
     "noPanoramaError": "Nincs megadva panorámakép.",
     "fileAccessError": "A fájl %s nem elérhető.",

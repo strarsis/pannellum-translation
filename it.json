@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Clicca per\nCaricare\nPanorama",
     "loadingLabel": "Caricamento in corso ...",
-	"bylineLabel": "per %s",    
+    "bylineLabel": "per %s",
     "noPanoramaError": "Nessuna immagine panoramica specificata.",
     "fileAccessError": "Non è possibile elaborare il file %s.",
     "malformedURLError": "C'è un problema con l'URL del panorama.",

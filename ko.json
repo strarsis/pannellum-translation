@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "파노라마를\n불러오려면\n클릭하세요",
     "loadingLabel": "불러오는 중...",
-	"bylineLabel": "by %s",
+    "bylineLabel": "by %s",
 
     "noPanoramaError": "특정된 파노라마 이미지가 없습니다.",
     "fileAccessError": "%s 파일에 접근할 수 없습니다.",

@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Klikněte pro\nnačtení\npanorámy",
     "loadingLabel": "Načítání...",
-	"bylineLabel": "od %s",    
+    "bylineLabel": "od %s",
 
     "noPanoramaError": "Nebyl zvolen žádný obrázek panorámy.",
     "fileAccessError": "Soubor %s není přístupný.",

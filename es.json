@@ -1,7 +1,7 @@
 {
     "loadButtonLabel": "Haga clic para\nCargar\nPanorama",
     "loadingLabel": "Cargando...",
-    "bylineLabel": "por %s",    
+    "bylineLabel": "por %s",
 
     "noPanoramaError": "Ninguna imagen ha sido especificada para el panorama.",
     "fileAccessError": "No se ha podido acceder al archivo %s.",
